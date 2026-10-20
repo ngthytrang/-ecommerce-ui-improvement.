@@ -46,6 +46,18 @@ Bản thiết kế mới:
 - Trình bày thống nhất ảnh, tên, giá và phần xem thông tin.
 - Bổ sung sắp xếp, số kết quả và thông báo khi không có sản phẩm phù hợp.
 - Điều chỉnh số cột theo màn hình.
+### Điều chỉnh do bản thân thực hiện
+Tôi lựa chọn chuyển tiêu đề “Chăm sóc da mặt” thành chữ in hoa
+để tạo điểm nhấn cho danh mục.
+
+Tôi bổ sung vào file css/style.css:
+
+.hero h1 {
+  text-transform: uppercase;
+}
+
+Sau khi tải lại website, tôi xác nhận tiêu đề hiển thị thành
+“CHĂM SÓC DA MẶT”.
 
 ### Kết quả đối chiếu phân tích AI
 Theo các nhận xét sinh viên ghi trong báo cáo:
