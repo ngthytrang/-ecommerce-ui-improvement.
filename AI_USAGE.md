@@ -65,6 +65,13 @@ Trong báo cáo, tôi đã bổ sung các nhận xét:
 - Giỏ hàng đã có các chức năng được đề cập trong nhận xét.
 
 Các nhận xét này giúp điều chỉnh đề xuất AI, tránh xem những vấn đề AI dự đoán là lỗi đã được xác nhận.
+### Điều chỉnh tiêu đề danh mục
+- Tôi chủ động yêu cầu chuyển tiêu đề sang chữ in hoa.
+- ChatGPT hướng dẫn sử dụng text-transform: uppercase.
+- Tôi tự bổ sung quy tắc .hero h1 vào file css/style.css
+  và lưu thay đổi trên GitHub.
+- Sau khi tải lại website, tôi xác nhận tiêu đề chuyển thành
+  “CHĂM SÓC DA MẶT”.
 
 ### Điều chỉnh yêu cầu thiết kế
 Tôi lựa chọn danh mục chăm sóc da mặt làm phạm vi cải tiến, cung cấp ảnh tham khảo và yêu cầu bổ sung bộ lọc theo thời điểm sử dụng cùng thanh giá. AI hỗ trợ tạo phiên bản mới theo yêu cầu.
