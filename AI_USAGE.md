@@ -90,3 +90,6 @@ Các thành phần mã nguồn quan trọng cần nắm gồm:
 - Hàm applyFilters(): kết hợp điều kiện lọc, ẩn/hiện sản phẩm
   và cập nhật số kết quả.
 - Array.sort(): sắp xếp sản phẩm theo giá.
+- - .hero h1 chọn tiêu đề h1 nằm trong khu vực có class hero.
+- text-transform: uppercase chuyển chữ hiển thị thành chữ hoa,
+  không thay đổi nội dung gốc trong HTML.
